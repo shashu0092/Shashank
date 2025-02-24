@@ -37,7 +37,7 @@
 
 ## 📫 *How to Reach Me*  
 - 📧 Email: [Shashank_15](mailto:shashank2003y@gmail.com)  
-- 🌐 [LinkedIn]((https://www.linkedin.com/in/shashank-s-794377258/)) | [GitHub](https://github.com/shashu0092)  
+- 🌐 [LinkedIn](https://www.linkedin.com/in/shashank-s-794377258/) | [GitHub](https://github.com/shashu0092)  
 
 ---
 
