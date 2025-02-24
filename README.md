@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Shashank </h1><h1 align="center"></h1>
 <h3 align="center">A passionate developer from India 🇮🇳 </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Suhas-sk-05&label=Profile%20views&color=0e75b6&style=flat" alt="Suhas" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Suhas-sk-05&label=Profile%20views&color=0e75b6&style=flat" alt="SHashank-15" /> </p>
 
 ---
 
@@ -36,8 +36,8 @@
 ---
 
 ## 📫 *How to Reach Me*  
-- 📧 Email: [suhas_05](mailto:suhas_05@outlook.com)  
-- 🌐 [LinkedIn](https://www.linkedin.com/in/suhas-s-k-124abb340/) | [GitHub](https://github.com/Suhas-sk-05)  
+- 📧 Email: [Shashank_15](mailto:shashank2003y@gmail.com)  
+- 🌐 [LinkedIn]((https://www.linkedin.com/in/shashank-s-794377258/)) | [GitHub](https://github.com/shashu0092)  
 
 ---
 
@@ -48,9 +48,9 @@
 
 <h3 align="left">GitHub Stats:</h3>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Suhas-sk-05&show_icons=true&locale=en" alt="Suhas-sk-05" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Shashank-15&show_icons=true&locale=en" alt="Shashank-15" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Suhas-sk-05&" alt="Suhas-sk-05" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Shashank-15&" alt="Shashank-15" /></p>
 
 <h3 align="left">Languages and Tools:</h3>
 
